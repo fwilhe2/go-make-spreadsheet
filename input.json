@@ -1,0 +1,52 @@
+{
+    "bankData": {
+        "accountHolder": {
+            "accountDetails": {
+                "accounts": [
+                    {
+                        "transactions": {
+                            "list": [
+                                {
+                                    "transactionDetails": {
+                                        "id": "TXN001",
+                                        "amount": {
+                                            "value": "-50.00",
+                                            "currency": "EUR"
+                                        }
+                                    }
+                                },
+                                {
+                                    "transactionDetails": {
+                                        "id": "TXN002",
+                                        "amount": {
+                                            "value": "1500.00",
+                                            "currency": "EUR"
+                                        }
+                                    }
+                                },
+                                {
+                                    "transactionDetails": {
+                                        "id": "TXN003",
+                                        "amount": {
+                                            "value": "20.00",
+                                            "currency": "EUR"
+                                        }
+                                    }
+                                },
+                                {
+                                    "transactionDetails": {
+                                        "id": "TXN004",
+                                        "amount": {
+                                            "value": "80.00",
+                                            "currency": "EUR"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
